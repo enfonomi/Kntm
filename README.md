@@ -1,5 +1,5 @@
 # Kntm
-Kuantum
+Quantum Computing (Kuantum Hesaplama)
 
 #Qiskit
 
