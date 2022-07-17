@@ -5,8 +5,12 @@ Kuantum
 
 https://qiskit.org/
 
+https://github.com/Qiskit/qiskit
+
+https://github.com/Qiskit/qiskit-tutorials
+
 #Installation/Kurulum
 
-pip install qiskit
+Windows & Mac: pip install qiskit
 
-pip install -U pip && pip install qiskit
+Linux: pip install -U pip && pip install qiskit
